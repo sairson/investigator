@@ -1,0 +1,2 @@
+# investigator
+利用kimi的联网功能做一个减少幻觉的优秀调查员
